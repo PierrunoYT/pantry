@@ -2,6 +2,9 @@
 
 A full-stack web application for managing recipes and creating shopping lists.
 
+[![GitHub Repository](https://img.shields.io/badge/github-pantry-blue?style=flat&logo=github)](https://github.com/PierrunoYT/pantry)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Features
 
 - User authentication and account management
@@ -38,7 +41,7 @@ A full-stack web application for managing recipes and creating shopping lists.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/PierrunoYT/pantry.git
 cd pantry
 ```
 
@@ -201,8 +204,8 @@ npm run start
 
 ## License
 
-MIT License - see LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-For support, please open an issue in the GitHub repository. 
+For support, please open an issue in the [GitHub repository](https://github.com/PierrunoYT/pantry). 
