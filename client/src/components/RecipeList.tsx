@@ -317,8 +317,8 @@ export function RecipeList() {
 
       {data?.recipes.length === 0 && (
         <div className="text-center py-8">
-          <h3 className="text-xl font-medium text-gray-900 mb-2">No recipes found</h3>
-          <p className="text-gray-600">Try adjusting your search or filters</p>
+          <h3 className="text-xl font-medium text-gray-900 dark:text-gray-100 mb-2">No recipes found</h3>
+          <p className="text-gray-600 dark:text-gray-400">Try adjusting your search or filters</p>
         </div>
       )}
 
